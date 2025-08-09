@@ -18,10 +18,10 @@
   - 发送消息：MSG <timestamp> <text>
 
 ### 服务端代码（server.cpp）
-[server.cc](https://github.com/sngrotesque/IM/blob/master/AI_Copilot/server.cc)
+[server.cc](server.cc)
 
 ### 客户端代码（client.cpp）
-[client.cc](https://github.com/sngrotesque/IM/blob/master/AI_Copilot/client.cc)
+[client.cc](client.cc)
 
 说明：
 - 仍然使用 4 字节小端长度 + 文本载荷帧。
