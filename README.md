@@ -30,4 +30,4 @@
     服务端在解析这个包的时候，需要先接收4字节的长度，然后按照长度完整接收客户端消息，然后以"Client [Username] [IP_Addrees:Port] [Timestamp]: Message"这样的格式展示。  
     任意用户在看到其他用户发送的消息时展示的格式应为"Client [Username] [Timestamp]: Message"格式。
 14. 添加用户登录功能（使用密码登录），对于服务端密码库（如哈希）请使用OpenSSL库的EVP接口。
-15. （针对第14条的补充）不允许使用任何一种数据库（包括NoSQL，MySql，pgsql等），允许使用protubuf或yml或xml或json。
+15. （针对第14条的补充）不允许使用任何一种数据库（包括NoSQL，MySql，pgsql等），允许使用[protobuf](https://protobuf.dev)或[yaml](https://yaml.org/)或[xml](https://www.w3schools.com/xml/xml_whatis.asp)或[json](https://en.wikipedia.org/wiki/JSON)。
