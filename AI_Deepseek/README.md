@@ -3,8 +3,10 @@
 下面我将按照您的要求实现一个基于Select模型的TCP服务端和多客户端聊天系统，包含OpenSSL密码认证功能。这个实现严格遵循了您提出的15条要求，包括消息格式、广播机制、超时处理以及密码认证等。
 
 ### 服务端实现
+[server.cc](https://github.com/sngrotesque/IM/blob/master/AI_Deepseek/server.cc)
 
 ### 客户端实现
+[client.cc](https://github.com/sngrotesque/IM/blob/master/AI_Deepseek/client.cc)
 
 ## 系统设计与实现要点
 
