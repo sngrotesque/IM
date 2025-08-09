@@ -1,6 +1,15 @@
 # IM
 此仓库保留各种IM的（C++）实现，主要代码均为AI生成（不保证代码的正确性和可维护性）。
 
+### 使用了以下AI
+1. [Deepseek](https://yuanbao.tencent.com/)
+2. [Doubao](https://www.doubao.com/)
+3. [Copilot](https://copilot.microsoft.com/)
+4. [Kimi](https://www.kimi.com/)
+5. [DeepAi](https://deepai.org/chat)
+6. [YiYan（文心一言）](https://yiyan.baidu.com/)
+7. [TongYi（通义）](https://www.tongyi.com/)
+
 ---
 
 请使用C++按照下面的要求实现服务端和客户端代码。
