@@ -10,6 +10,11 @@
 6. [YiYan（文心一言）](https://yiyan.baidu.com/)
 7. [TongYi（通义）](https://www.tongyi.com/)
 
+### 依赖库
+
+[nlohmann/json.hpp](https://github.com/nlohmann/json/)
+[openssl](https://github.com/openssl/openssl)
+
 ---
 
 请使用C++按照下面的要求实现服务端和客户端代码。
