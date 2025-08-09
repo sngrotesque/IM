@@ -2,8 +2,8 @@
 此仓库保留各种IM的（C++）实现，主要代码均为AI生成（不保证代码的正确性和可维护性）。
 
 ### 使用了以下AI
-1. [Deepseek](https://yuanbao.tencent.com/)
-2. [Doubao](https://www.doubao.com/)
+1. [Deepseek（深度求索）](https://yuanbao.tencent.com/)
+2. [Doubao（豆包）](https://www.doubao.com/)
 3. [Copilot](https://copilot.microsoft.com/)
 4. [Kimi](https://www.kimi.com/)
 5. [DeepAi](https://deepai.org/chat)
