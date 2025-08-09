@@ -10,10 +10,10 @@
 6. [YiYan（文心一言）](https://yiyan.baidu.com/)
 7. [TongYi（通义）](https://www.tongyi.com/)
 
-### 依赖库
+### 依赖库（当前仓库已使用的）
 
-[nlohmann/json.hpp](https://github.com/nlohmann/json/)
-[openssl](https://github.com/openssl/openssl)
+1. [nlohmann/json.hpp](https://github.com/nlohmann/json/)
+2. [openssl](https://github.com/openssl/openssl)
 
 ---
 
