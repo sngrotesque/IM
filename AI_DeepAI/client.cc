@@ -3,6 +3,7 @@
 #include <iostream>
 #include <string>
 #include <chrono>
+#include <vector>
 
 #pragma comment(lib, "Ws2_32.lib")
 
