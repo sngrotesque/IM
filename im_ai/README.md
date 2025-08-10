@@ -15,3 +15,4 @@
 13. 客户端发送的消息将为下面的结构，首先是4个字节，这是一个uint32_t数，代表了接下来的消息的长度。比如说客户端要发送一个"hello"，那么消息包将为（hex）`0500000068656c6c6f`。  
     服务端在解析这个包的时候，需要先接收4字节的长度，然后按照长度完整接收客户端消息，然后以"Client [Username] [IP_Addrees:Port] [Timestamp]: Message"这样的格式展示。  
     任意用户在看到其他用户发送的消息时展示的格式应为"Client [Username] [Timestamp]: Message"格式。
+
